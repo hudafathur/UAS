@@ -94,7 +94,7 @@ int main()
             goto atas;
             break;
       case 0 : exit:
-            cout<<" Anda Kembali ke Halaman Program "<<endl;
+            cout<<" Terima Kasih telah menggunakan program kami "<<endl;
             break;
       default: cout <<"Anda Salah Input Pilihan"<<endl;
             goto atas;

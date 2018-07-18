@@ -1,6 +1,6 @@
 //Huda Fatkhur Rahman
 //17.11.1613
-//Informatia 11 2017
+//Informatika 11 2017
 #include<iostream>
 #include<string.h>
 #include<stdlib.h>
